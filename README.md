@@ -1,7 +1,7 @@
 # PDF-CodeForces-Problems
 CodeForces problems in PDF files
 
-The files in this repository extracted from CodeForces using [codeforces2pdf](https://github.com/AliOsm/codeforces2pdf), folders names represent the contests ids from CodeForces URLs, each folder contains the problems of the contest.
+The files in this repository extracted from CodeForces using [codeforces2pdf](https://github.com/AliOsm/codeforces2pdf), folders names represent the contests` IDs from CodeForces URLs, each folder contains the problems of the contest.
 
 ## Crazy facts about CodeForces contests
 - There is 937 contests on CodeForces
